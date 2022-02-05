@@ -1,6 +1,5 @@
 # Hangman Game
 
----
 
 This is a simple hangman game, that runs on command line. 
 It just needs one user to play, the user has 6 lives and has to guess the english word. 
